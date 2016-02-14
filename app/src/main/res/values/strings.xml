@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTune</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_audio_file_title">Select MP3 file</string>
+    <string name="settings">Settings</string>
+    <string name="mytune">My Tune</string>
+    <string name="des1">Click to enable</string>
+</resources>
