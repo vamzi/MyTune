@@ -16,8 +16,8 @@ TESTING IS STILL IN PROGRESS
 # Screenshots
 Below are the screenshots of the app.
 
-![alt tag](http://imgur.com/gx4qzez)
-![alt tag](http://imgur.com/kOxwvvT)
+http://imgur.com/gx4qzez
+http://imgur.com/kOxwvvT
 
 # THANKS TO
  For Gaussian Blur Blur.java
