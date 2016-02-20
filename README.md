@@ -16,8 +16,8 @@ TESTING IS STILL IN PROGRESS
 # Screenshots
 Below are the screenshots of the app.
 
-http://imgur.com/gx4qzez
-http://imgur.com/kOxwvvT
+![alt tag](https://raw.githubusercontent.com/vamzi/MyTune/master/screenshots/scr01.png)
+![alt tag](https://raw.githubusercontent.com/vamzi/MyTune/master/screenshots/scr02.png)
 
 # THANKS TO
  For Gaussian Blur Blur.java
