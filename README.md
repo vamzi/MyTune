@@ -16,7 +16,7 @@ TESTING IS STILL IN PROGRESS
 # Screenshots
 Below are the screenshots of the app.
 
-![alt tag](https://raw.githubusercontent.com/vamzi/MyTune/master/screenshots/scr01.png)
+![alt tag](https://raw.githubusercontent.com/vamzi/MyTune/master/screenshots/scr01.png width="500" height="700")
 ![alt tag](https://raw.githubusercontent.com/vamzi/MyTune/master/screenshots/scr02.png)
 
 # THANKS TO
